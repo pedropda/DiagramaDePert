@@ -1,6 +1,6 @@
 # Diagrama De Pert
 
-Este código realiza la planificación de un proyecto utilizando la técnica de gestión de proyectos conocida como el Método de la Ruta Crítica (Critical Path Method, CPM). El objetivo es calcular los tiempos de inicio y fin más tempranos y más tardíos para cada actividad dentro de un proyecto, identificar el camino crítico, y determinar la duración total del proyecto. Aquí te explico cada sección del código:
+Este código realiza la planificación de un proyecto utilizando la técnica de gestión de proyectos conocida como el Método de la Ruta Crítica (Critical Path Method, CPM). El objetivo es calcular los tiempos de inicio y fin más tempranos y más tardíos para cada actividad dentro de un proyecto, identificar el camino crítico, y determinar la duración total del proyecto. Aquí explico cada sección del código:
 
 1. **Definición de actividades, tiempos y precedentes**:
    - `actividades`: Lista de todas las actividades del proyecto, identificadas por letras.
